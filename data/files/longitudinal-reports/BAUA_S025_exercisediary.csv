@@ -1,0 +1,8 @@
+"Id","Date","instructions","intensity","location","type","commute","sedentary","light_glasses","startdate_3","enddate_3","type_english"
+"BAUA_S025","2025-10-13",1,2,1,"Rad, niedriger Gang, schnelle Kadenz, konstant moderate Anstrengung",30,780,1,"2025-10-14 00:33:28","2025-10-14 00:34:24","Bike, low gear, high cadence, consistently moderate effort"
+"BAUA_S025","2025-10-14",1,3,1,"Zu Fuß zu Arbeit und zurück",60,660,1,"2025-10-14 23:35:03","2025-10-14 23:36:28","Walking to work and back"
+"BAUA_S025","2025-10-15",1,2,1,"Rad zur Arbeit u. zurück",40,720,1,"2025-10-15 22:42:07","2025-10-15 22:42:50","bike to work and back"
+"BAUA_S025","2025-10-16",1,4,,,5,800,,"2025-10-17 00:24:29","2025-10-17 00:25:15",
+"BAUA_S025","2025-10-17",1,2,1,"Rad zur Arbeit",40,700,1,"2025-10-18 01:21:26","2025-10-18 01:21:45","Bicycle to work"
+"BAUA_S025","2025-10-18",1,4,,,20,840,,"2025-10-19 00:35:21","2025-10-19 00:35:48",
+"BAUA_S025","2025-10-19",1,3,3,"Nicht direkt Sport, aber bei Familie gewesen, viel Bewegung, viel Aufregung.",60,600,1,"2025-10-20 00:26:37","2025-10-20 00:27:47","Not directly sports, but was with family, lots of movement, lots of excitement."

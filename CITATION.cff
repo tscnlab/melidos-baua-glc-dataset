@@ -1,0 +1,59 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Personal light exposure dataset for Dortmund, Germany'
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Kai
+    family-names: Broszio
+    email: broszio.kai@baua.bund.de
+    affiliation: >-
+      Federal Institute for Occupational Safety and Health
+      (BAuA)
+    orcid: 'https://orcid.org/0000-0002-8269-8654'
+  - given-names: Johannes
+    family-names: Zauner
+    email: johannes.zauner@tum.de
+    affiliation: >-
+      Technical University of Munich; Max Planck Institute
+      for Biological Cybernetics
+    orcid: 'https://orcid.org/0000-0003-2171-4566'
+  - given-names: Manuel
+    family-names: Spitschan
+    email: manuel.spitschan@tum.de
+    affiliation: >-
+      Technical University of Munich; Max Planck Institute
+      for Biological Cybernetics; TUM Institute for Advanced
+      Study (TUM-IAS)
+    orcid: 'https://orcid.org/0000-0002-8572-9268'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.18244467
+    description: Zenodo archive (V1.0.0)
+  - type: doi
+    value: 10.5281/zenodo.18111232
+    description: Zenodo Archive (latest version)
+repository-code: 'https://github.com/tscnlab/melidos-baua-glc-dataset'
+url: 'https://www.melidos.eu'
+abstract: >-
+  This repository contains the comprehensive dataset for
+  the   MeLiDos field study site of Dortmund, Germany. Data
+  were collected by Federal Institute for Occupational
+  Safety and Health (BAuA) and are further processed and
+  analysed by the Translational Sensory & Circadian
+  Neuroscience Unit (TSCN). A detailed description of the
+  experiment is available in Guidolin et al., 2024.
+keywords:
+  - light exposure
+  - wearable
+  - healthy light
+  - circadian
+  - melanopic
+  - naturalistic setting
+license: CC-BY-4.0
+version: 1.0.0
+date-released: '2025-12-31'

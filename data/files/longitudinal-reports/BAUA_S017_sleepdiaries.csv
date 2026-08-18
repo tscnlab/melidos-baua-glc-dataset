@@ -1,0 +1,8 @@
+"Id","bedtime","sleepprep","wake","out_ofbed","sleepdelay","awakenings","awake_duration","sleepquality","daytype2","comments","sleep","sleep_duration","comments_english"
+"BAUA_S017","2025-09-08 22:02:00","2025-09-09 01:01:00","2025-09-09 07:45:00","2025-09-09 08:00:00",20,0,0,3,2,"Nein","2025-09-09 01:21:00",6.4,"No"
+"BAUA_S017","2025-09-09 18:40:00","2025-09-10 01:48:00","2025-09-10 10:45:00","2025-09-10 10:50:00",420,1,10,1,1,"absolute Schlaflosigkeit, ist aber nicht so schlimm weil ich heute wegen dem schlechten Wetter nicht auf die Baustelle muss","2025-09-10 08:48:00",1.95,"Absolute insomnia, but it's not so bad because I don't have to go to the construction site today due to the bad weather."
+"BAUA_S017","2025-09-10 22:00:00","2025-09-10 22:00:00","2025-09-11 09:18:00","2025-09-11 09:18:00",30,2,20,2,1,"Nein","2025-09-10 22:30:00",10.8,"No"
+"BAUA_S017","2025-09-11 22:50:00","2025-09-11 23:59:00","2025-09-12 08:50:00","2025-09-12 08:52:00",30,0,0,3,2,"Nein","2025-09-12 00:29:00",8.35,"No"
+"BAUA_S017","2025-09-12 23:50:00","2025-09-13 02:00:00","2025-09-13 10:28:00","2025-09-13 10:28:00",120,1,180,2,1,"bis auf die knapp 3 Stunden wo ich nachts wach geworden bin nichts","2025-09-13 04:00:00",6.46666666666667,"Except for the almost 3 hours when I woke up at night, nothing."
+"BAUA_S017","2025-09-14 03:40:00","2025-09-14 04:00:00","2025-09-14 09:52:00","2025-09-14 09:53:00",50,1,20,2,1,"Nein","2025-09-14 04:50:00",5.03333333333333,"No"
+"BAUA_S017","2025-09-14 23:00:00","2025-09-14 23:30:00","2025-09-15 07:55:00","2025-09-15 08:01:00",30,0,0,3,2,"Nein","2025-09-15 00:00:00",7.91666666666667,"No"

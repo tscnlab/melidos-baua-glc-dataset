@@ -1,0 +1,73 @@
+[
+  {
+    "schema_version": "3.0.2",
+    "study_internal_id": "MELIDOS_BAUA_2025",
+    "study_title": "Personal light exposure dataset for Dortmund, Germany",
+    "study_ethics": "Ethikkommission der Technischen Universität München (2024-118-S-SB)",
+    "study_short_description": "MeLiDos field-study data collected by the Federal Institute for Occupational Safety and Health (BAuA) in Dortmund, Germany.",
+    "study_sample": "Twenty-two included participants from the MeLiDos Dortmund field site; 25 participants were enrolled and three withdrew.",
+    "study_setting": "Field study",
+    "study_geographical_location": "Dortmund, Germany, urban",
+    "study_contributors": [
+      {
+        "contributor_full_name": "Kai Broszio",
+        "contributor_roles": [
+          "Conceptualization",
+          "Data curation",
+          "Validation",
+          "Formal analysis",
+          "Investigation",
+          "Funding acquisition",
+          "Methodology",
+          "Project administration",
+          "Resources",
+          "Software",
+          "Supervision",
+          "Visualization",
+          "Writing – original draft",
+          "Writing – review & editing"
+        ],
+        "contributor_email": "broszio.kai@baua.bund.de",
+        "contributor_orcid": "https://orcid.org/0000-0002-8269-8654",
+        "contributor_institution": {
+          "contributor_institution_name": "Federal Institute for Occupational Safety and Health (BAuA)",
+          "contributor_institution_city": "Dortmund",
+          "contributor_institution_country": "Germany"
+        }
+      }
+    ],
+    "study_datasets": [
+      "MELIDOS_BAUA_S001",
+      "MELIDOS_BAUA_S002",
+      "MELIDOS_BAUA_S003",
+      "MELIDOS_BAUA_S004",
+      "MELIDOS_BAUA_S005",
+      "MELIDOS_BAUA_S006",
+      "MELIDOS_BAUA_S007",
+      "MELIDOS_BAUA_S008",
+      "MELIDOS_BAUA_S009",
+      "MELIDOS_BAUA_S010",
+      "MELIDOS_BAUA_S011",
+      "MELIDOS_BAUA_S012",
+      "MELIDOS_BAUA_S013",
+      "MELIDOS_BAUA_S014",
+      "MELIDOS_BAUA_S015",
+      "MELIDOS_BAUA_S016",
+      "MELIDOS_BAUA_S017",
+      "MELIDOS_BAUA_S018",
+      "MELIDOS_BAUA_S022",
+      "MELIDOS_BAUA_S023",
+      "MELIDOS_BAUA_S024",
+      "MELIDOS_BAUA_S025"
+    ],
+    "study_type": "field study",
+    "study_keywords": [
+      "light exposure",
+      "circadian",
+      "wearable sensor",
+      "MeLiDos",
+      "Dortmund",
+      "Germany"
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+"Id","Date","instructions","intensity","location","type","commute","sedentary","light_glasses","startdate_3","enddate_3","type_english"
+"BAUA_S004","2025-06-10",1,1,2,"Krafttraining",30,30,0,"2025-06-10 23:29:30","2025-06-10 23:31:38","Strength training"
+"BAUA_S004","2025-06-11",1,1,1,"Joggen",80,480,0,"2025-06-11 21:42:29","2025-06-11 21:45:20","Jogging"
+"BAUA_S004","2025-06-12",1,1,2,"Kraftsport im Fitnessstudio",40,400,0,"2025-06-12 23:27:05","2025-06-12 23:29:14","Strength training in gym"
+"BAUA_S004","2025-06-13",1,2,2,"Badminton",25,660,0,"2025-06-13 23:49:07","2025-06-13 23:52:03","Badminton"
+"BAUA_S004","2025-06-14",1,3,3,"Spaziergang, Schlittschuhlaufen",190,520,0,"2025-06-15 01:55:10","2025-06-15 01:58:20","walk, ice skating"
+"BAUA_S004","2025-06-15",1,1,1,"Radfahren auf der Straße",0,555,0,"2025-06-15 22:52:50","2025-06-15 22:55:47","Cycling on the street"
+"BAUA_S004","2025-06-16",1,1,2,"Kampfsport",35,540,0,"2025-06-16 22:47:36","2025-06-16 22:51:12","Martial Arts"

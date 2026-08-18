@@ -1,0 +1,8 @@
+"Id","Date","instructions","intensity","location","type","commute","sedentary","light_glasses","startdate_3","enddate_3","type_english"
+"BAUA_S011","2025-06-24",1,4,,,0,480,,"2025-06-24 22:03:07","2025-06-24 22:04:16",
+"BAUA_S011","2025-06-25",1,3,3,"gassi gehen",50,480,1,"2025-06-25 22:04:27","2025-06-25 22:05:55","dog walking"
+"BAUA_S011","2025-06-26",1,2,3,"gassi gehen",80,480,1,"2025-06-26 22:21:03","2025-06-26 22:21:55","dog walking"
+"BAUA_S011","2025-06-27",1,3,3,"gassi gehen",50,480,1,"2025-06-27 22:25:11","2025-06-27 22:25:50","dog walking"
+"BAUA_S011","2025-06-28",1,2,3,"gassi gehen",90,90,1,"2025-06-28 23:00:01","2025-06-28 23:01:14","dog walking"
+"BAUA_S011","2025-06-29",1,3,3,"gassi gehen",120,180,1,"2025-06-29 23:14:55","2025-06-29 23:15:36","dog walking"
+"BAUA_S011","2025-06-30",1,2,3,"gassi gehen und spielen mit den Hunden",40,50,1,"2025-06-30 22:34:51","2025-06-30 22:36:02","walking and playing with the dogs"

@@ -1,0 +1,6 @@
+"Id","Date","instructions","intensity","location","type","commute","sedentary","light_glasses","startdate_3","enddate_3","type_english"
+"BAUA_S013","2025-07-17",1,4,,,5,300,,"2025-07-17 14:09:24","2025-07-17 14:09:54",
+"BAUA_S013","2025-07-18",1,3,2,"Rehasport",10,300,1,"2025-07-18 23:57:50","2025-07-18 23:59:21","rehabilitation sport"
+"BAUA_S013","2025-07-19",1,3,1,"Spaziergang mit dem Hund",30,300,1,"2025-07-19 20:04:55","2025-07-19 20:06:31","Walk with the dog"
+"BAUA_S013","2025-07-20",1,3,3,"draußen mit dem Hund unterwegs.  Rehasport mit dem Ball zuhause",30,360,1,"2025-07-20 20:01:52","2025-07-20 20:03:32","outside with the dog. rehabilitation exercise with the ball at home"
+"BAUA_S013","2025-07-21",1,2,3,"Mit dem Hund unterwegs gewesen. Zuhause den Haushalt erledigt.",90,240,1,"2025-07-21 21:45:12","2025-07-21 21:47:24","Went out with the dog. Did housework at home."

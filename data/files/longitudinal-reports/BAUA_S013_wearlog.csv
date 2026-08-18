@@ -1,0 +1,13 @@
+"Id","start","state","duration","end","wearlog_event","reason","wearlog_type","radius","wearlog_bp","wearlog_bag","wearlog_place","wearlog_motion","wearlog_place_english"
+"BAUA_S013","2025-07-15 21:36:00","off",57,"2025-07-15 22:33:00",1,3,1,,,1,,0,
+"BAUA_S013","2025-07-15 23:09:00","sleep",446,"2025-07-16 06:35:00",3,,1,,,,,,
+"BAUA_S013","2025-07-16 13:42:00","off",10,"2025-07-16 13:52:00",1,5,1,,,0,"Auf dem Küchentisch. Die Brille ist mir von der Nase gefallen. Der Sensor ist rausgegangen. Nachdem ich ihn wieder reingesteckt habe, sitzt er nicht mehr so fest in der Sicherung, da eine Plastiktüte abgeblitzt ist.",0,"On the kitchen table. The glasses fell off my nose. The sensor came out. After I put it back in, it no longer sits as firmly in the holder because a plastic bag had sparked."
+"BAUA_S013","2025-07-16 22:48:00","sleep",586,"2025-07-17 08:34:00",3,,1,,,,,,
+"BAUA_S013","2025-07-17 20:32:00","off",20,"2025-07-17 20:52:00",1,3,1,,,0,"rucksack",0,"backpack"
+"BAUA_S013","2025-07-17 23:15:00","sleep",544,"2025-07-18 08:19:00",3,,1,,,,,,
+"BAUA_S013","2025-07-19 00:01:00","off",515,"2025-07-19 08:36:00",1,5,1,,,0,"nachttisch",0,"bedside table"
+"BAUA_S013","2025-07-19 17:24:00","sleep",134,"2025-07-19 19:38:00",3,,1,,,,,,
+"BAUA_S013","2025-07-19 23:04:00","sleep",559,"2025-07-20 08:23:00",3,,1,,,,,,
+"BAUA_S013","2025-07-21 00:12:00","off",505,"2025-07-21 08:37:00",1,5,1,,,0,"Auf dem Nachttisch zur Nachtruhe",0,"On the bedside table during the night/rest"
+"BAUA_S013","2025-07-21 20:19:00","off",84,"2025-07-21 21:43:00",1,3,1,,,1,,0,
+"BAUA_S013","2025-07-22 00:16:00","sleep",447,"2025-07-22 07:43:00",3,,1,,,,,,

@@ -1,0 +1,8 @@
+"Id","Date","instructions","intensity","location","type","commute","sedentary","light_glasses","startdate_3","enddate_3","type_english"
+"BAUA_S008","2025-06-24",1,3,3,"spazieren",45,560,1,"2025-06-24 22:03:11","2025-06-24 22:04:16","walking"
+"BAUA_S008","2025-06-25",1,3,1,"spazieren mit dem Hund",60,360,1,"2025-06-25 22:06:07","2025-06-25 22:07:00","walking the dog"
+"BAUA_S008","2025-06-26",1,3,3,"spazieren",60,450,1,"2025-06-26 22:20:28","2025-06-26 22:21:29","walking"
+"BAUA_S008","2025-06-27",1,3,2,"spazieren mit den Hunden",60,260,1,"2025-06-27 22:19:29","2025-06-27 22:19:59","walking the dogs"
+"BAUA_S008","2025-06-28",1,3,1,"spazieren",30,450,1,"2025-06-28 23:00:04","2025-06-28 23:00:25","walking"
+"BAUA_S008","2025-06-29",1,3,1,"spazieren",0,400,1,"2025-06-29 22:42:01","2025-06-29 22:42:19","walking"
+"BAUA_S008","2025-06-30",1,3,1,"spazieren",60,250,1,"2025-06-30 22:41:30","2025-06-30 22:41:56","walking"
